@@ -10,10 +10,7 @@ Welcome to Wings's documentation!
    :maxdepth: 2
 
    
-   Introduction to Wings <about.rst>
-   Unit testing automatic generation technology <automatic_generation.rst>
-   Parameter Structure Description(PSD) <psd.rst>
-
+   Introduction to Wings
 
 
 Indices and tables
